@@ -1,4 +1,4 @@
-lida
-lida[transformers]
-torch
 streamlit
+hugging face[transformers]
+mistral7b model
+lida
